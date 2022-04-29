@@ -1,0 +1,8 @@
+name: UUIDChange
+version: '${project.version}'
+main: dev.mrshawn.uuidchange.UUIDChange
+api-version: 1.18
+prefix: UUIDChange
+commands:
+  changeuuid:
+  checkuuid:
